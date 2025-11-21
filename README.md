@@ -6,14 +6,14 @@ Welcome to my personal presentation portfolio! This repository showcases my tech
 
 | Preview Image | Project Name | Key Technologies/Description | Links |
 |---------------|-------------|------------------------------|-------|
-| ![CIIMS Preview](2025/CIIMS项目/assets/Gemini_Generated_Image_ay509gay509gay50.png) | CIIMS Project | Technical presentation for CIIMS project implementation and architecture | [📄 PDF](2025/CIIMS项目/CIIMS-PPT-v2.pdf) • [📊 PPTX](2025/CIIMS项目/CIIMS-PPT-v2.pptx) |
+| ![CIIMS Preview](2025/CIIMS Project/assets/Gemini_Generated_Image_ay509gay509gay50.png) | CIIMS Project | Technical presentation for CIIMS project implementation and architecture | [📄 PDF](2025/CIIMS Project/CIIMS-PPT-v2.pdf) • [📊 PPTX](2025/CIIMS Project/CIIMS-PPT-v2.pptx) |
 
 ## 📁 Repository Structure
 
 ```
 My-PPT-Log/
 ├── 2025/
-│   └── CIIMS项目/
+│   └── CIIMS Project/
 │       ├── CIIMS-PPT-v2.pdf
 │       ├── CIIMS-PPT-v2.pptx
 │       └── assets/
